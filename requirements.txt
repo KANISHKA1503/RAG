@@ -1,0 +1,6 @@
+langchain
+pypdf
+langchain-text-splitters
+langchain-community
+faiss-cpu
+langchain-huggingface
